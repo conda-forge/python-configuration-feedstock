@@ -1,5 +1,5 @@
 {% set name = "python-configuration" %}
-{% set version = "0.6.0" %}
+{% set version = "0.7.0" %}
 
 package:
   name: "{{ name|lower }}"
@@ -7,7 +7,7 @@ package:
 
 source:
   url: "https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz"
-  sha256: a33324a361228f078485df8a059778b89eb353bdb52654df669439be21e74b25
+  sha256: 1dcbb1acb2325a9571863a99dd09a8304f81b1907232ca071b0cb09f3e094779
 
 build:
   number: 0
@@ -38,3 +38,4 @@ about:
 extra:
   recipe-maintainers:
     - DanNixon
+    - wiphoo
