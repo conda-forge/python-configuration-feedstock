@@ -117,4 +117,5 @@ Feedstock Maintainers
 =====================
 
 * [@DanNixon](https://github.com/DanNixon/)
+* [@wiphoo](https://github.com/wiphoo/)
 
