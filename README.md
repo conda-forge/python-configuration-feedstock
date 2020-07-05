@@ -5,7 +5,7 @@ Home: https://github.com/tr11/python-configuration
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: A library to load configuration parameters from multiple sources and formats
 
