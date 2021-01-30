@@ -5,11 +5,11 @@ Home: https://github.com/tr11/python-configuration
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/python-configuration-feedstock/blob/master/LICENSE.txt)
 
 Summary: A library to load configuration parameters from multiple sources and formats
 
-
+Documentation: https://python-configuration.readthedocs.io
 
 Current build status
 ====================
